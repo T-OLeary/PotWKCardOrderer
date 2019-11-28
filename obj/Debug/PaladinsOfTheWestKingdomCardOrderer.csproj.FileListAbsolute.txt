@@ -1,0 +1,6 @@
+C:\Users\thoma\source\repos\Test\PaladinsOfTheWestKingdomCardOrderer\bin\Debug\PaladinsOfTheWestKingdomCardOrderer.exe.config
+C:\Users\thoma\source\repos\Test\PaladinsOfTheWestKingdomCardOrderer\bin\Debug\PaladinsOfTheWestKingdomCardOrderer.exe
+C:\Users\thoma\source\repos\Test\PaladinsOfTheWestKingdomCardOrderer\bin\Debug\PaladinsOfTheWestKingdomCardOrderer.pdb
+C:\Users\thoma\source\repos\Test\PaladinsOfTheWestKingdomCardOrderer\obj\Debug\PaladinsOfTheWestKingdomCardOrderer.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Test\PaladinsOfTheWestKingdomCardOrderer\obj\Debug\PaladinsOfTheWestKingdomCardOrderer.exe
+C:\Users\thoma\source\repos\Test\PaladinsOfTheWestKingdomCardOrderer\obj\Debug\PaladinsOfTheWestKingdomCardOrderer.pdb
